@@ -113,9 +113,10 @@ main{
 }
 
 .videos{
-    width: 168px;
+    width: 170px;
     height: 94px;
     border-radius: 5px;
+    object-fit: cover;
 }
 
 .videoList::-webkit-scrollbar {
